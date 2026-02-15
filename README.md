@@ -1,8 +1,6 @@
 # About Me:
-⚙️ I'm working in a Hexopod Robot (IEEE-RAS - UFPB)<br>📚 Computer Engineering student at Universidade Federal da Paraíba (UFPB)
+📚 Computer Engineering student at Universidade Federal da Paraíba (UFPB)<br>⚙️ I'm working in a Hexopod Robot (IEEE-RAS - UFPB)
 
-
-## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lyanearaujos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lyanearaujos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lyane0612@gmail.com) 
 
 # Tech Stack:
